@@ -449,3 +449,78 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:scripting/monoscript/fileName/King.cs: 910bdae8683a51bf58ae073e6078d677 -> be1b705f232b125017874e03e7fe539a
   custom:scripting/precompiled-assembly-types:Assembly-CSharp: 45177d96f1ed00c6d6b96ad88907e543 -> a43373b9287fac12a82d024657ec7709
+========================================================================
+Received Import Request.
+  Time since last request: 8189.128216 seconds.
+  path: Assets/Schoolorum/Sprites/bg.PNG
+  artifactKey: Guid(85521c939847d794ba1adc78afefd4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/bg.PNG using Guid(85521c939847d794ba1adc78afefd4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6ef902abe9f2030c3ec466256708b5cb') in 0.135044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Schoolorum/Sprites/Mage.png
+  artifactKey: Guid(33957799479fd874cb406bc98c1e9109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/Mage.png using Guid(33957799479fd874cb406bc98c1e9109) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'aa23b6eaef3719f6c675d4f4784f5a59') in 0.021616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Schoolorum/Sprites/UI.png
+  artifactKey: Guid(3f56828b292ee8c4a8860cc5ae8f2152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/UI.png using Guid(3f56828b292ee8c4a8860cc5ae8f2152) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f29374a964bdb130c9cf9b2ad33f4eb2') in 0.020990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Schoolorum/Sprites/King.png
+  artifactKey: Guid(fc447fb926a15fa44a953498811a0924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/King.png using Guid(fc447fb926a15fa44a953498811a0924) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '37fc02c64ee16ece29eea03e9ede25ec') in 0.022844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Schoolorum/Sprites/Knight.png
+  artifactKey: Guid(1a66747041123a047a423c9710cb1639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/Knight.png using Guid(1a66747041123a047a423c9710cb1639) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5c7240d068e2f2bd300cef3d98b3814f') in 0.018794 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 35.289738 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/atlas_walls_high-16x32.png
+  artifactKey: Guid(bfe8c01616f925742bb0a3ac1499afca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/atlas_walls_high-16x32.png using Guid(bfe8c01616f925742bb0a3ac1499afca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0fd5b76ff78b42e6b0e0b73eb74f6241') in 0.035588 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 13.537763 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/atlas_walls_high-16x32.png
+  artifactKey: Guid(bfe8c01616f925742bb0a3ac1499afca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/atlas_walls_high-16x32.png using Guid(bfe8c01616f925742bb0a3ac1499afca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0ea9269fd0ee00b3b0bda191c6e4dd01') in 0.013423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
