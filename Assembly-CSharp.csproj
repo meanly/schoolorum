@@ -64,10 +64,12 @@
     <Compile Include="Assets\Schoolorum\Scripts\King.cs" />
     <Compile Include="Assets\Schoolorum\Scripts\Projectile.cs" />
     <Compile Include="Assets\Schoolorum\Scripts\MenuUI.cs" />
+    <Compile Include="Assets\Schoolorum\Scripts\EXPOrb.cs" />
     <Compile Include="Assets\Schoolorum\Scripts\Wave.cs" />
     <Compile Include="Assets\Schoolorum\Scripts\UI.cs" />
     <Compile Include="Assets\Schoolorum\Scripts\Player.cs" />
     <Compile Include="Assets\Schoolorum\Scripts\Game.cs" />
+    <Compile Include="Assets\Schoolorum\Scripts\EXPSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Schoolorum\ReadMe.txt" />

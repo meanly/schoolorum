@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Experimental.Rendering;
 
 public class Enemy : MonoBehaviour 
 {
@@ -19,7 +20,10 @@ public class Enemy : MonoBehaviour
 	public SpriteRenderer sr;
 	public GameObject projectilePrefab;
 
-	public GameObject deathParticleEffect;
+    public int expValue = 20;
+    public GameObject expOrbPrefab;
+
+    public GameObject deathParticleEffect;
 
 	void Update ()
 	{
@@ -138,7 +142,12 @@ public class Enemy : MonoBehaviour
 		GameObject pe = Instantiate(deathParticleEffect, transform.position, Quaternion.identity);
 		Destroy(pe, 2);
 		Destroy(gameObject);
-	}
+        if (expOrbPrefab != null)
+        {
+            Instantiate(expOrbPrefab, transform.position, Quaternion.identity);
+        }
+
+    }
 }
 
 public enum EnemyType {Knight, Archer, Mage}
