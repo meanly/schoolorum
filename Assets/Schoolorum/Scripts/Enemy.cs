@@ -141,11 +141,12 @@ public class Enemy : MonoBehaviour
 		Game.game.curEnemies.Remove(gameObject);
 		GameObject pe = Instantiate(deathParticleEffect, transform.position, Quaternion.identity);
 		Destroy(pe, 2);
-		Destroy(gameObject);
         if (expOrbPrefab != null)
         {
             Instantiate(expOrbPrefab, transform.position, Quaternion.identity);
         }
+
+        Destroy(gameObject);
 
     }
 }

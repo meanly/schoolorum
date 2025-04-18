@@ -1886,3 +1886,623 @@ Start importing Assets/Schoolorum/Prefabs/Enemies/Enemy_Mage.prefab using Guid(9
  -> (artifact id: 'a6de37a8ea9c87a648ac6d661f28266d') in 0.000753 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 347.969930 seconds.
+  path: Assets/Schoolorum/Sprites/1d236aab7ca0323.png
+  artifactKey: Guid(08ea733a2d69f084f9e25e6507607b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/1d236aab7ca0323.png using Guid(08ea733a2d69f084f9e25e6507607b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '06dd34b0d253d232e0b2aee4491c6ce2') in 0.067065 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.453632 seconds.
+  path: Assets/Schoolorum/Sprites/target.png
+  artifactKey: Guid(08ea733a2d69f084f9e25e6507607b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/target.png using Guid(08ea733a2d69f084f9e25e6507607b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6f4d6ae073e8fd582a9843535e6cb9a9') in 0.010154 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 56.701981 seconds.
+  path: Assets/Schoolorum/Sprites/target.png
+  artifactKey: Guid(08ea733a2d69f084f9e25e6507607b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/target.png using Guid(08ea733a2d69f084f9e25e6507607b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'aa7041739cd46ddda9a74aef06b1344e') in 0.021083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 20.028727 seconds.
+  path: Assets/UniversalRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(93b439a37f63240aca3dd4e01d978a9f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(93b439a37f63240aca3dd4e01d978a9f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '81b0ae8e346277e3e2306537b7e94abe') in 0.187840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/atlas_floor-16x16.png
+  artifactKey: Guid(adc05a0bc36e3ec4ea3ef639dce7b6d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/atlas_floor-16x16.png using Guid(adc05a0bc36e3ec4ea3ef639dce7b6d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '31174ff1e0c27ed46318419818620fb0') in 0.130193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 47
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_28.asset
+  artifactKey: Guid(fea86249a2ff68e4baf871870c686310) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_28.asset using Guid(fea86249a2ff68e4baf871870c686310) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3f1531e0721b9def556d16f31d5f755c') in 0.020701 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/Stone.psd
+  artifactKey: Guid(42183b6824270b04586d096e4da626fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/PSD Files/Stone.psd using Guid(42183b6824270b04586d096e4da626fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ae2fd7dc90f4dc4b5ee1586cbee471ef') in 0.018364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/Logo.psd
+  artifactKey: Guid(9e6515c214b72994886e17840e1a5072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/PSD Files/Logo.psd using Guid(9e6515c214b72994886e17840e1a5072) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '57b8e3e60aa28f141ae97143822f253a') in 0.027571 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_11.asset
+  artifactKey: Guid(c0a43401d99cf2b4c9b23df7aa6f397d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_11.asset using Guid(c0a43401d99cf2b4c9b23df7aa6f397d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '155c7fcdeab4776f64fb1983dde3e9b9') in 0.015189 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Schoolorum/Scripts/MenuUI.cs
+  artifactKey: Guid(9796078dd2e6b8a4d8a421d57f7144c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Scripts/MenuUI.cs using Guid(9796078dd2e6b8a4d8a421d57f7144c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0d43ae4c535a9fc25b339c4fe7bba375') in 0.013719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/Mage.psd
+  artifactKey: Guid(0e72aea138745df4a8e0e03a005ea4da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/PSD Files/Mage.psd using Guid(0e72aea138745df4a8e0e03a005ea4da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a0a7df6e09f1b37b597465d159a047ed') in 0.030912 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Schoolorum/Sprites/Archer.png
+  artifactKey: Guid(2dad0cfb4cea80e419c36e3a96525796) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/Archer.png using Guid(2dad0cfb4cea80e419c36e3a96525796) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6b74674b511fa8546e413256b4b42677') in 0.021973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Prefabs/Projectiles/KingFollowOrb.prefab
+  artifactKey: Guid(39da548837c65ca4cb3cada212a9cd97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Prefabs/Projectiles/KingFollowOrb.prefab using Guid(39da548837c65ca4cb3cada212a9cd97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '44d0663ebd14406313168bd076454add') in 0.012821 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_21.asset
+  artifactKey: Guid(d8b2e183e4eaf22429ee3a48efe7daa2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_21.asset using Guid(d8b2e183e4eaf22429ee3a48efe7daa2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a2d5dcd2f2169b22d4e7645bf95ce8b5') in 0.014382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/atlas_walls_high-16x32.png
+  artifactKey: Guid(bfe8c01616f925742bb0a3ac1499afca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/atlas_walls_high-16x32.png using Guid(bfe8c01616f925742bb0a3ac1499afca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7606dddc3692879be49e8871a0cd1972') in 0.048223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_5.asset
+  artifactKey: Guid(83a1ad21ecad7eb4080c5ab7c4c74b2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_5.asset using Guid(83a1ad21ecad7eb4080c5ab7c4c74b2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1a452e44e53c050a3b131895444e8c06') in 0.013699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_8.asset
+  artifactKey: Guid(23c09695cd16858459fc13cb52292f9f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_8.asset using Guid(23c09695cd16858459fc13cb52292f9f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '55911a9884910085def4d59e6313014d') in 0.014782 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Scripts/Wave.cs
+  artifactKey: Guid(795f45567625c2a4981c781895ae1274) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Scripts/Wave.cs using Guid(795f45567625c2a4981c781895ae1274) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'cda459d79ce956b7c86811843fa8f52b') in 0.012957 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/Archer.psd
+  artifactKey: Guid(76b1c90a55a28cf46815f19dd7ca0e85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/PSD Files/Archer.psd using Guid(76b1c90a55a28cf46815f19dd7ca0e85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'da0ec26a41bcae4f5619b8020d73a15a') in 0.026224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/UI.psd
+  artifactKey: Guid(00a3685a98b3283448c4b42aa6af4364) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/PSD Files/UI.psd using Guid(00a3685a98b3283448c4b42aa6af4364) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '65ff7f4d7f5689a3ec0aae661bbffea3') in 0.028654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_31.asset
+  artifactKey: Guid(88aa33a0408ceee47a3d7f3a8473e136) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_31.asset using Guid(88aa33a0408ceee47a3d7f3a8473e136) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd87510a76b5de8c2ba05f5febe3fefb5') in 0.015327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_29.asset
+  artifactKey: Guid(7fdbd5312dd2abc4fb5c6a35ee5a3a8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_29.asset using Guid(7fdbd5312dd2abc4fb5c6a35ee5a3a8d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8eea6e412ac95d266594e82949c5edd4') in 0.017355 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_20.asset
+  artifactKey: Guid(a365ff74322155c4ba7a29e42b6b3d4c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_20.asset using Guid(a365ff74322155c4ba7a29e42b6b3d4c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '38bc61c0357f2315d11ddeb07ef64dac') in 0.014096 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Prefabs/Enemies/Enemy_Mage.prefab
+  artifactKey: Guid(95ed99ec212039c44a6a8fe68c7d5786) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Prefabs/Enemies/Enemy_Mage.prefab using Guid(95ed99ec212039c44a6a8fe68c7d5786) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '31dca01cc6e1766157160d280470e229') in 0.010023 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_22.asset
+  artifactKey: Guid(caa471b6887eb824187181bcb564f58c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_22.asset using Guid(caa471b6887eb824187181bcb564f58c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f7df42aa9177282abed444bd00f42196') in 0.019360 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Scripts/King.cs
+  artifactKey: Guid(41edaccc1e4bce643bb97884f102bd08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Scripts/King.cs using Guid(41edaccc1e4bce643bb97884f102bd08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bc2bf9467122ae1d7a94d4da9c406c21') in 0.013865 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Schoolorum/Prefabs/ParticleEffects/DeathParticleEffect.prefab
+  artifactKey: Guid(a6ddf3f9dc3a75541a0ecd48ae008da4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Prefabs/ParticleEffects/DeathParticleEffect.prefab using Guid(a6ddf3f9dc3a75541a0ecd48ae008da4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '0689aea5a80cf2ecafa0aad5a2bedd5e') in 0.110559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_3.asset
+  artifactKey: Guid(18f33f6a6088ee246815b4bf96613f15) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_3.asset using Guid(18f33f6a6088ee246815b4bf96613f15) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '38a343b717935d41746050bba983b2db') in 0.014862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_24.asset
+  artifactKey: Guid(bfaf3aaeb113be547a50ff73aab59103) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_24.asset using Guid(bfaf3aaeb113be547a50ff73aab59103) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6ce23a54e75787bcc38484f9363fa78a') in 0.015856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_27.asset
+  artifactKey: Guid(892803b91aa7d354298228a54080fbed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_27.asset using Guid(892803b91aa7d354298228a54080fbed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '26eb38a786b0c183f30994d44de1760e') in 0.014608 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/atlas_walls_low-16x16.png
+  artifactKey: Guid(beca9b4ccfb9d3741942f2cc98c2c6e8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/atlas_walls_low-16x16.png using Guid(beca9b4ccfb9d3741942f2cc98c2c6e8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'df521c2b35670afc8510ce96d1b119b4') in 0.025552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Settings/Renderer2D.asset
+  artifactKey: Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Settings/Renderer2D.asset using Guid(424799608f7334c24bf367e4bbfa7f9a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6fa9ee33ebd6bad2a76c5facd48439ff') in 0.384059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 50
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Schoolorum/Prefabs/Projectiles/Arrow.prefab
+  artifactKey: Guid(aaa097edcb19a464fa91528224fc6243) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Prefabs/Projectiles/Arrow.prefab using Guid(aaa097edcb19a464fa91528224fc6243) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e512bd966e1fdc7376d84a72e4965568') in 0.010425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_10.asset
+  artifactKey: Guid(e12f84548df4f0e46afcbd147c627f5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_10.asset using Guid(e12f84548df4f0e46afcbd147c627f5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e6b1e35b98177db7781705c3f3bf67ce') in 0.014725 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_9.asset
+  artifactKey: Guid(1c33459c4e0f87840b574e9c6752ab5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_9.asset using Guid(1c33459c4e0f87840b574e9c6752ab5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '376713e3d86c749341026d4869d8b499') in 0.015378 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Sprites/exp-orb.png
+  artifactKey: Guid(14718ecd9ace8344c930df6b5885c1f4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/exp-orb.png using Guid(14718ecd9ace8344c930df6b5885c1f4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1a2e1df448ee936db5927e7bab8ded7b') in 0.023039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_38.asset
+  artifactKey: Guid(237578fccadcbc64aa8ced2a43d30520) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_38.asset using Guid(237578fccadcbc64aa8ced2a43d30520) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'eebae89ad99fbfce3f8cf5fcf8443202') in 0.015596 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Schoolorum/Sprites/Projectiles.png
+  artifactKey: Guid(43215c0952c80cc49a65ef8c419a8081) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/Projectiles.png using Guid(43215c0952c80cc49a65ef8c419a8081) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '163fcdfb2c62039dcc648c9e837db30c') in 0.026077 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Schoolorum/Prefabs/Enemies/Enemy_Archer.prefab
+  artifactKey: Guid(893a56e3bca255445bd8a444fe6879e1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Prefabs/Enemies/Enemy_Archer.prefab using Guid(893a56e3bca255445bd8a444fe6879e1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2f548638eb8a179559cdb3131dd24a89') in 0.012054 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Schoolorum/Scripts/Projectile.cs
+  artifactKey: Guid(411a42e8ec1cbb74cb8a96ca8ff75111) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Scripts/Projectile.cs using Guid(411a42e8ec1cbb74cb8a96ca8ff75111) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e9cd494a35901bb5c250eb6de31907a4') in 0.015883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_26.asset
+  artifactKey: Guid(1a6df3fc8b3758243a17facd82f0609f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_26.asset using Guid(1a6df3fc8b3758243a17facd82f0609f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '9cd9605d16e9ae17c483d6fc1addd92b') in 0.014393 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_23.asset
+  artifactKey: Guid(37a8078ccd8dd774faa51519b94c927c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_23.asset using Guid(37a8078ccd8dd774faa51519b94c927c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8520aacfbc78ac372a5dee5dcd80cf47') in 0.013511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Schoolorum/Sprites/bg.PNG
+  artifactKey: Guid(85521c939847d794ba1adc78afefd4eb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/bg.PNG using Guid(85521c939847d794ba1adc78afefd4eb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c6424961300725a2c779f90dc2b62c43') in 0.027735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Schoolorum/Prefabs/Player.prefab
+  artifactKey: Guid(d76c3d4da0fb76241b70ad5a7cee94ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Prefabs/Player.prefab using Guid(d76c3d4da0fb76241b70ad5a7cee94ac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5fc3676974e4ba7a5f76afdf1cd97a0c') in 0.010205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/Knight.psd
+  artifactKey: Guid(cc296d2d49af1294aada0fa0806bfb1a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/PSD Files/Knight.psd using Guid(cc296d2d49af1294aada0fa0806bfb1a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b0b433bdd1042a62ff1726e4a7a98e74') in 0.030738 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_35.asset
+  artifactKey: Guid(a4088e3b9d4a22c4d88fc37d76442698) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/DungeonTileSet/Tiles/atlas_floor-16x16_35.asset using Guid(a4088e3b9d4a22c4d88fc37d76442698) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '8a66f3636c28a53560c49fdca240db81') in 0.013958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Schoolorum/Sprites/MuzzleFlash.png
+  artifactKey: Guid(fa61a47fed9596f45946d0bea1961d7a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/MuzzleFlash.png using Guid(fa61a47fed9596f45946d0bea1961d7a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5721a75c383d78cbe5790c55395c0ddc') in 0.020155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/MuzzleFlash.psd
+  artifactKey: Guid(f6a1049bb7f5c934aa100d75adb0f2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/PSD Files/MuzzleFlash.psd using Guid(f6a1049bb7f5c934aa100d75adb0f2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'aeea5b89dc898d3d229ae89418ae86ad') in 0.018254 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/UI.psd
+  artifactKey: Guid(00a3685a98b3283448c4b42aa6af4364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/PSD Files/UI.psd using Guid(00a3685a98b3283448c4b42aa6af4364) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6b5993f5c9a217bba06a0ae4f89440b1') in 0.020660 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Settings/Lit2DSceneTemplate.scenetemplate
+  artifactKey: Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/Lit2DSceneTemplate.scenetemplate using Guid(d03ed43fc9d8a4f2e9fa70c1c7916eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '66f5fc8fb224f8616e637ab04a39952f') in 0.088835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/Archer.psd
+  artifactKey: Guid(76b1c90a55a28cf46815f19dd7ca0e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Schoolorum/Sprites/PSD Files/Archer.psd using Guid(76b1c90a55a28cf46815f19dd7ca0e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ac6293dbbe5dd9331a4e00c685353b87') in 0.015463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Schoolorum/Sprites/Zach.png
+  artifactKey: Guid(e2ec037a3c84a184f9d0b68ad7792f97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/Zach.png using Guid(e2ec037a3c84a184f9d0b68ad7792f97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '93482e870501685a9eb53dd5214cea24') in 0.049885 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Schoolorum/Sprites/PSD Files/Stone.psd
+  artifactKey: Guid(42183b6824270b04586d096e4da626fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Schoolorum/Sprites/PSD Files/Stone.psd using Guid(42183b6824270b04586d096e4da626fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '561388e4976051a65673eeae7ad2f189') in 0.020832 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.996 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.839 seconds
+Domain Reload Profiling: 3811ms
+	BeginReloadAssembly (264ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (56ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (72ms)
+	LoadAllAssembliesAndSetupDomain (577ms)
+		LoadAssemblies (698ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (27ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (2840ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (679ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (177ms)
+			ProcessInitializeOnLoadAttributes (351ms)
+			ProcessInitializeOnLoadMethodAttributes (95ms)
+			AfterProcessingInitializeOnLoad (34ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (17ms)
+Refreshing native plugins compatible for Editor in 18.64 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5559 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (0.7 MB). Loaded Objects now: 6185.
+Memory consumption went from 186.3 MB to 185.6 MB.
+Total: 5.514500 ms (FindLiveObjects: 0.735800 ms CreateObjectMapping: 0.202100 ms MarkObjects: 3.926500 ms  DeleteObjects: 0.648700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/EXPSystem.cs: 4168494be1341affccf768ad98a8a1b1 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/EXPOrb.cs: 33a3eb3d85e5807a9bbeaafe826d1556 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: be4ac43972121a6febcfb0e1879862af -> 45177d96f1ed00c6d6b96ad88907e543
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.788 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.246 seconds
+Domain Reload Profiling: 3014ms
+	BeginReloadAssembly (227ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (440ms)
+		LoadAssemblies (560ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (2246ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (584ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (152ms)
+			ProcessInitializeOnLoadAttributes (307ms)
+			ProcessInitializeOnLoadMethodAttributes (81ms)
+			AfterProcessingInitializeOnLoad (24ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+Refreshing native plugins compatible for Editor in 15.53 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5559 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (0.7 MB). Loaded Objects now: 6189.
+Memory consumption went from 186.3 MB to 185.5 MB.
+Total: 3.624200 ms (FindLiveObjects: 0.480300 ms CreateObjectMapping: 0.154100 ms MarkObjects: 2.595400 ms  DeleteObjects: 0.393300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/EXPSystem.cs: 4168494be1341affccf768ad98a8a1b1 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/EXPOrb.cs: 33a3eb3d85e5807a9bbeaafe826d1556 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: be4ac43972121a6febcfb0e1879862af -> 45177d96f1ed00c6d6b96ad88907e543
