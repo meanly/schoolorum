@@ -110,15 +110,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Zach_0
+      name: Zach_idle_0
       rect:
         serializedVersion: 2
-        x: 36
+        x: 37
         y: 0
         width: 22
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -131,7 +131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_1
+      name: Zach_idle_1
       rect:
         serializedVersion: 2
         x: 116
@@ -139,7 +139,7 @@ TextureImporter:
         width: 22
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -152,7 +152,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_2
+      name: Zach_idle_2
       rect:
         serializedVersion: 2
         x: 196
@@ -160,7 +160,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,15 +173,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_3
+      name: Zach_idle_3
       rect:
         serializedVersion: 2
         x: 276
-        y: 0
+        y: 1
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,7 +194,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_4
+      name: Zach_walk_4
       rect:
         serializedVersion: 2
         x: 356
@@ -202,7 +202,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,7 +215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_5
+      name: Zach_walk_5
       rect:
         serializedVersion: 2
         x: 436
@@ -223,7 +223,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,7 +236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_6
+      name: Zach_walk_6
       rect:
         serializedVersion: 2
         x: 516
@@ -244,7 +244,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -257,7 +257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_7
+      name: Zach_walk_7
       rect:
         serializedVersion: 2
         x: 598
@@ -265,7 +265,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -278,7 +278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_8
+      name: Zach_walk_8
       rect:
         serializedVersion: 2
         x: 679
@@ -286,7 +286,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -299,7 +299,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_9
+      name: Zach_walk_9
       rect:
         serializedVersion: 2
         x: 760
@@ -307,7 +307,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -320,7 +320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_10
+      name: Zach_walk_10
       rect:
         serializedVersion: 2
         x: 839
@@ -328,7 +328,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_11
+      name: Zach_walk_11
       rect:
         serializedVersion: 2
         x: 918
@@ -349,7 +349,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -362,7 +362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_12
+      name: Zach_hurt_12
       rect:
         serializedVersion: 2
         x: 998
@@ -370,7 +370,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -383,7 +383,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_13
+      name: Zach_hurt_13
       rect:
         serializedVersion: 2
         x: 1079
@@ -391,7 +391,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -404,7 +404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_14
+      name: Zach_hurt_14
       rect:
         serializedVersion: 2
         x: 1159
@@ -412,7 +412,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -425,7 +425,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_15
+      name: Zach_hurt_15
       rect:
         serializedVersion: 2
         x: 1238
@@ -433,7 +433,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -446,15 +446,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_16
+      name: Zach_attack_16
       rect:
         serializedVersion: 2
         x: 1318
-        y: 0
+        y: 1
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -467,7 +467,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_17
+      name: Zach_attack_17
       rect:
         serializedVersion: 2
         x: 1400
@@ -475,7 +475,7 @@ TextureImporter:
         width: 19
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -488,7 +488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_18
+      name: Zach_attack_18
       rect:
         serializedVersion: 2
         x: 1480
@@ -496,7 +496,7 @@ TextureImporter:
         width: 19
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -509,7 +509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_19
+      name: Zach_attack_19
       rect:
         serializedVersion: 2
         x: 1535
@@ -517,7 +517,7 @@ TextureImporter:
         width: 57
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -530,7 +530,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_20
+      name: Zach_attack_20
       rect:
         serializedVersion: 2
         x: 1614
@@ -538,7 +538,7 @@ TextureImporter:
         width: 47
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -551,49 +551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_21
-      rect:
-        serializedVersion: 2
-        x: 1665
-        y: 6
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 412d45e34247e7b428acbe7b3fa87c23
-      internalID: -1885192631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Zach_22
-      rect:
-        serializedVersion: 2
-        x: 1693
-        y: 4
-        width: 8
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af01f9d0d852c8e4893a9e551d297916
-      internalID: 925342846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Zach_23
+      name: Zach_attack_23
       rect:
         serializedVersion: 2
         x: 1698
@@ -601,7 +559,7 @@ TextureImporter:
         width: 43
         height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -614,28 +572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Zach_24
-      rect:
-        serializedVersion: 2
-        x: 1751
-        y: 7
-        width: 4
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d19a5c481b1c3e4b8fdc726907400bf
-      internalID: -2127803837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Zach_25
+      name: Zach_attack_25
       rect:
         serializedVersion: 2
         x: 1798
@@ -643,7 +580,7 @@ TextureImporter:
         width: 22
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -666,32 +603,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Zach_0: -1924442132
-      Zach_1: 924154011
-      Zach_10: 644838457
-      Zach_11: -1476896161
-      Zach_12: -1700338761
-      Zach_13: 2130913128
-      Zach_14: -311959290
-      Zach_15: -90945822
-      Zach_16: -1141594899
-      Zach_17: 1634584574
-      Zach_18: -1631658847
-      Zach_19: 490894974
-      Zach_2: -610866590
-      Zach_20: -902462181
       Zach_21: -1885192631
       Zach_22: 925342846
-      Zach_23: 1829746960
       Zach_24: -2127803837
-      Zach_25: -400403695
-      Zach_3: -1846677874
-      Zach_4: -297033802
-      Zach_5: 485737723
-      Zach_6: 293563824
-      Zach_7: 1718466783
-      Zach_8: -1717699499
-      Zach_9: -1911426304
+      Zach_attack_16: -1141594899
+      Zach_attack_17: 1634584574
+      Zach_attack_18: -1631658847
+      Zach_attack_19: 490894974
+      Zach_attack_20: -902462181
+      Zach_attack_23: 1829746960
+      Zach_attack_25: -400403695
+      Zach_hurt_12: -1700338761
+      Zach_hurt_13: 2130913128
+      Zach_hurt_14: -311959290
+      Zach_hurt_15: -90945822
+      Zach_idle_0: -1924442132
+      Zach_idle_1: 924154011
+      Zach_idle_2: -610866590
+      Zach_idle_3: -1846677874
+      Zach_walk_10: 644838457
+      Zach_walk_11: -1476896161
+      Zach_walk_4: -297033802
+      Zach_walk_5: 485737723
+      Zach_walk_6: 293563824
+      Zach_walk_7: 1718466783
+      Zach_walk_8: -1717699499
+      Zach_walk_9: -1911426304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

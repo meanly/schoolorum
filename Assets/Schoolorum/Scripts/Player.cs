@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    [SerializeField] private Animator _animator;
     public int curHealth;
     public int maxHealth;
     public int damage;
@@ -55,7 +56,14 @@ public class Player : MonoBehaviour
         }
 
         //Movement
-        Move(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+        float x = Input.GetAxis("Horizontal");
+        float y = Input.GetAxis("Vertical");
+        Move(x, y);
+        // 🕺 Animation
+        if (x != 0 || y != 0)
+            _animator.SetBool("isWalking", true);
+        else
+            _animator.SetBool("isWalking", false);
 
         //Look at Mouse / Joystick
         //Vector3 dir = transform.position - mousePos;
