@@ -25,9 +25,9 @@ public class Player : MonoBehaviour
 
     //attacck
     public GameObject slashPrefab; // Assign in Inspector
-    [SerializeField] private float attackRadius = 3f;
-    [SerializeField] private float attackInterval = 1.0f;
-    private float attackCooldown = 1.5f;
+    [SerializeField] public float attackRadius = 3f;
+    [SerializeField] public float attackInterval = 1.0f;
+    public float attackCooldown = 1.5f;
                             
     void OnDrawGizmosSelected()
     {

@@ -73,23 +73,6 @@ public class Game : MonoBehaviour
 		}
 
 		//If the player can upgrade, then allow the required keyboard inputs.
-		if(canUpgrade)
-		{
-			if(Input.GetKeyDown(KeyCode.Q))
-			{
-				player.damage += 5;
-				canUpgrade = false;
-				ui.upgradeText.gameObject.active = false;
-				Game.game.Shake(0.15f, 0.15f, 30.0f);
-			}
-			if(Input.GetKeyDown(KeyCode.E))
-			{
-				player.attackRate = 0.05f;
-				canUpgrade = false;
-				ui.upgradeText.gameObject.active = false;
-				Game.game.Shake(0.15f, 0.15f, 30.0f);
-			}
-		}
 
 		//If the player presses ESCAPE, quit the game.
 		if(Input.GetKeyDown(KeyCode.Escape)){
@@ -145,11 +128,11 @@ public class Game : MonoBehaviour
 			yield return new WaitForSeconds(2);
 
 			//If the player needs to choose and upgrade, display that...
-			if(waveCount == 4)
-			{
-				ui.upgradeText.gameObject.active = true;
-				canUpgrade = true;
-			}
+			//if(waveCount == 4)
+			//{
+			//	ui.upgradeText.gameObject.active = true;
+			//	canUpgrade = true;
+			//}
 
 			//but don't start the next round.
 			while(canUpgrade)

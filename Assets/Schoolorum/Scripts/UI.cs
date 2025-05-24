@@ -66,8 +66,8 @@ public class UI : MonoBehaviour
 		Image bg = healthBar.transform.Find("Background").GetComponent<Image>();
 		bg.color = Color.red;
 		yield return new WaitForSeconds(0.05f);
-		bg.color = Color.white;
-	}
+        bg.color = new Color32(51, 48, 79, 255);
+    }
 
 	//When the player takes damage, shake the health slider bar.
 	public void ShakeSlider (float duration, float amount, float intensity)
