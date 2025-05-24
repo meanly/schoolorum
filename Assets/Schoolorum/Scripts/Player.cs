@@ -22,23 +22,66 @@ public class Player : MonoBehaviour
     //Components
     public Rigidbody2D rig;
     public SpriteRenderer sr;
-    public float attackRange = 1.5f;
 
+    //attacck
+    public GameObject slashPrefab; // Assign in Inspector
+    [SerializeField] private float attackRadius = 3f;
+    [SerializeField] private float attackInterval = 1.0f;
+    private float attackCooldown = 0f;
+                            
     void OnDrawGizmosSelected()
     {
         // Draw the attack range in editor
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position, attackRange);
+        Gizmos.DrawWireSphere(transform.position, attackRadius  );
     }
     void Update()
     {
-        attackTimer += Time.deltaTime;
+        //attackTimer += Time.deltaTime;
+        attackCooldown += Time.deltaTime;
+
+        if (attackCooldown >= attackInterval)
+        {
+            attackCooldown = 0f;
+            AutoSlashAttack();
+        }
 
         Camera cam = Camera.main;
         transform.position = new Vector3(Mathf.Clamp(transform.position.x, -cam.orthographicSize * cam.aspect + 0.4f, cam.orthographicSize * cam.aspect - 0.4f),
         Mathf.Clamp(transform.position.y, -cam.orthographicSize + 0.4f, cam.orthographicSize - 0.4f), 0);
 
         Inputs();
+    }
+
+    void AutoSlashAttack()
+    {
+        // Direction to cursor
+        Vector3 dir = (mousePos - transform.position).normalized;
+
+        // Flip sprite
+        sr.flipX = (dir.x < 0);
+
+        // Position the slash slightly in front of player
+        Vector3 spawnPos = transform.position + dir * 0.8f;
+
+        // Instantiate slash animation prefab
+        GameObject slash = Instantiate(slashPrefab, spawnPos, Quaternion.identity);
+        slash.transform.right = dir; // Rotate slash to face cursor
+        Destroy(slash, 0.5f);
+
+        // Damage enemies in radius
+        Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position, attackRadius);
+        foreach (Collider2D col in hits)
+        {
+            if (col.CompareTag("Enemy"))
+            {
+                Enemy enemy = col.GetComponent<Enemy>();
+                if (enemy != null)
+                {
+                    enemy.TakeDamage(damage);
+                }
+            }
+        }
     }
 
     void Inputs()
@@ -88,11 +131,14 @@ public class Player : MonoBehaviour
     //Spawns a projectile and shoots it forward.
     void Shoot()
     {
-        GameObject proj = Instantiate(bulletPrefab, transform.position + (transform.up * 0.7f), transform.rotation);
-        Projectile projScript = proj.GetComponent<Projectile>();
+        //GameObject proj = Instantiate(bulletPrefab, transform.position + (transform.up * 0.7f), transform.rotation);
+        //Projectile projScript = proj.GetComponent<Projectile>();
 
-        projScript.damage = damage;
-        projScript.rig.velocity = (mousePos - transform.position).normalized * bulletSpeed;
+        //projScript.damage = damage;
+        //projScript.rig.velocity = (mousePos - transform.position).normalized * bulletSpeed;
+        _animator.SetTrigger("Zach_PlayerAttack"); // Play slash animation
+
+        // Slash radius center = player position (can be offset)
     }
 
     //Called when an enemy projectile hits the player. Takes damage.
