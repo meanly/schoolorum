@@ -69,6 +69,7 @@
     <Compile Include="Assets\Schoolorum\Scripts\UI.cs" />
     <Compile Include="Assets\Schoolorum\Scripts\Player.cs" />
     <Compile Include="Assets\Schoolorum\Scripts\Game.cs" />
+    <Compile Include="Assets\Schoolorum\Scripts\GameTimer.cs" />
     <Compile Include="Assets\Schoolorum\Scripts\EXPSystem.cs" />
   </ItemGroup>
   <ItemGroup>
