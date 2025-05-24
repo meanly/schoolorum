@@ -22,7 +22,14 @@ public class Player : MonoBehaviour
     //Components
     public Rigidbody2D rig;
     public SpriteRenderer sr;
+    public float attackRange = 1.5f;
 
+    void OnDrawGizmosSelected()
+    {
+        // Draw the attack range in editor
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, attackRange);
+    }
     void Update()
     {
         attackTimer += Time.deltaTime;
