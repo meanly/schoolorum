@@ -38,6 +38,7 @@ public class EXPSystem : MonoBehaviour
 
     void LevelUp()
     {
+        AudioManager.instance.PlayLevelUp();
         currentLevel++;
         expToNextLevel = Mathf.RoundToInt(expToNextLevel * 1.5f);
         Debug.Log("Leveled up to: " + currentLevel);

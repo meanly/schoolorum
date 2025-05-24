@@ -69,19 +69,23 @@ public class UpgradeUI : MonoBehaviour
         switch (type)
         {
             case "damage":
-                player.damage += 5;
+                player.damage += 1;
+                AudioManager.instance.PlayPlayerUpgrade();
                 break;
             case "health":
                 player.maxHealth += 20;
                 player.curHealth = player.maxHealth;
+                AudioManager.instance.PlayPlayerUpgrade();
                 break;
             case "speed":
                 player.moveSpeed += 1f;
+                AudioManager.instance.PlayPlayerUpgrade();
                 break;
             case "attackSpeed":
                 player.attackCooldown *= 0.9f; // Reduce cooldown by 10%
                 if (player.attackCooldown < 0.3f)
                     player.attackCooldown = 0.3f; // Minimum cooldown limit
+                AudioManager.instance.PlayPlayerUpgrade();
                 break;
         }
 

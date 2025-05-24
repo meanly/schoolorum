@@ -37,6 +37,7 @@ public class Player : MonoBehaviour
     }
     void Update()
     {
+
         //attackTimer += Time.deltaTime;
         attackCooldown += Time.deltaTime;
 
@@ -64,6 +65,7 @@ public class Player : MonoBehaviour
         // Position the slash slightly in front of player
         Vector3 spawnPos = transform.position + dir * 0.8f;
 
+        AudioManager.instance.PlaySwordSlash();
         // Instantiate slash animation prefab
         GameObject slash = Instantiate(slashPrefab, spawnPos, Quaternion.identity);
         slash.transform.right = dir; // Rotate slash to face cursor
@@ -150,6 +152,7 @@ public class Player : MonoBehaviour
         }
         else
         {
+            AudioManager.instance.PlayPlayerHit();
             curHealth -= dmg;
             Game.game.Shake(0.1f, 0.1f, 50.0f);
             Game.game.ui.ShakeSlider(0.2f, 0.05f, 30.0f);
