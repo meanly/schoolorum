@@ -39,6 +39,7 @@ public class EXPOrb : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             EXPSystem expSystem = FindObjectOfType<EXPSystem>();
+            AudioManager.instance.PlayEXPPickup();
             if (expSystem != null)
             {
                 expSystem.GainEXP(expAmount);
